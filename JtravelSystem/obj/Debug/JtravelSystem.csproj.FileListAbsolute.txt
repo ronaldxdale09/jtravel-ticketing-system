@@ -1,0 +1,40 @@
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\bin\Debug\JtravelSystem.exe.config
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\bin\Debug\JtravelSystem.exe
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\bin\Debug\JtravelSystem.pdb
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.csprojResolveAssemblyReference.cache
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.Properties.Resources.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.csproj.GenerateResource.Cache
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.exe
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.pdb
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\bin\Debug\Bunifu.Core.dll
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.csproj.ResolveComReference.cache
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.airasia.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.cebupacific.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.JtravelSystem.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.SendEmail.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.settings.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.palControl.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.airAsiaEmailSend.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem\JtravelSystem\obj\Debug\JtravelSystem.palSendEmail.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\bin\Debug\JtravelSystem.exe.config
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.csproj.ResolveComReference.cache
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.exe
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.pdb
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\bin\Debug\JtravelSystem.exe
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\bin\Debug\JtravelSystem.pdb
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\bin\Debug\Bunifu.Core.dll
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.csprojResolveAssemblyReference.cache
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.airasia.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.airAsiaEmailSend.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.cebupacific.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.JtravelSystem.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.palControl.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.palSendEmail.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.Properties.Resources.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.SendEmail.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.settings.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.csproj.GenerateResource.Cache
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.FlightAndGuest.flightDetails.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.FlightAndGuest.guest.resources
+C:\Users\MSi Pro\Desktop\VS\JtravelSystem V2\JtravelSystem\obj\Debug\JtravelSystem.FlightAndGuest.flightDetails2.resources
